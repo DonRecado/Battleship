@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
